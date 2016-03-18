@@ -12,13 +12,13 @@ Description
 
 Installation
 ------------
-<script>
-  var newId = "myRanP_0";
-
-  setup();
+  //var newId = "myRanP_0";
+  
+  //setup();
+  
   //myParagraph(numOfSentence, numOfWords, numOfLetters, mode) mode set to 0
-  document.getElementById(newId).innerHTML = myParagraph(10,10,15,0);
-</script>
+  
+  //document.getElementById(newId).innerHTML = myParagraph(10,10,15,0);
 
 Example
 -------
