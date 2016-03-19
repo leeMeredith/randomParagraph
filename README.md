@@ -12,14 +12,15 @@ Description
 
 Installation
 ------------
-  //var newId = "myRanP_0";
-  
-  //setup();
-  
+```html
+<script src="js/randomParagraph.js"></script>
+```
+```javascript
+  var newId = "myRanP_0";
+  setup();
   //myParagraph(numOfSentence, numOfWords, numOfLetters, mode) mode set to 0
-  
-  //document.getElementById(newId).innerHTML = myParagraph(10,10,15,0);
-
+  document.getElementById(newId).innerHTML = myParagraph(10,10,15,0);
+```
 Example
 -------
 Y'ts ufyminijezajf'ex fsoxeja lizuda e o'v cnu'e o bozyni'ts. I e'g! A nusaqud yv tqmgoji kuhj'v ylonuczc'm. Fky mar'm zga'g u y'i. Af'ld i esws o a'jo u esws i ix? Etugoxapw ftasuxo. Hdyniha dazerena'ts. Mfivajowe eg yjawifiwpqk umomixaj gmabydy sdrro'r! Hbsymykikaviso athzr e'c a jli qwowyrifi'cr? Y'ts yk o uz'ts!
